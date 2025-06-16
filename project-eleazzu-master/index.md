@@ -52,6 +52,7 @@ The following steps outline the key phases of the research:
 
 
 
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
